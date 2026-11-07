@@ -204,4 +204,4 @@ This repository serves as the official landing page for Heimdal Security. The so
 **Get the most recent version of Heimdal Security today!**
 
 ---
-**Last updated:** 2026-11-06 20:39:27 UTC
+**Last updated:** 2026-11-07 00:30:41 UTC
